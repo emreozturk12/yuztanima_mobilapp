@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Yoklama Uygulaması</string>
+    <string name="derslistesi"><u>Ders Listesi</u></string>
+    <string name="lineer_cebir">Lineer Cebir</string>
+</resources>
